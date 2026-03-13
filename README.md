@@ -17,9 +17,9 @@ Each category has a name, user defined color and icon.
 
 #### 2. Transaction creation / editing
 
-A user can register a expense or income transaction using the + button at the bottom of the screen.
+A user can register an expense or income transaction using the + button at the bottom of the screen.
 
-The user will be promted to enter a value, assign a category, write a note (optional) and change the time of the transaction that is by default set to the system time of the device.
+The user will be promted to enter a value, assign a category, write a note (optional) and change the time of the transaction that is set to the system time of the device by default.
 
 <p>
   <img src="images/transaction_1.png" width="20%" height="20%" />
