@@ -54,7 +54,7 @@ They can also enter transaction edit mode from this screen.
   <img src="images/transactions_6.png" width="20%" height="20%" />
 </p>
 
-#### 4. Statistics
+#### 5. Statistics
 
 Finally the user can view the statistics for each category during a selected time range and other filters.
 
